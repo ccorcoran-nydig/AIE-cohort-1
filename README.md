@@ -1,40 +1,46 @@
-# **🧑‍💻 What is Agent Engineering?**
+<p align = "center" draggable="false" ><img src="https://github.com/AI-Maker-Space/LLM-Dev-101/assets/37101144/d1343317-fa2f-41e1-8af1-1dbb18399719" 
+     width="200px"
+     height="auto"/>
+</p>
 
-AI Engineering refers to the industry-relevant skills that data science and engineering teams need to successfully **build, deploy, operate, and improve Large Language Model (LLM) applications in production environments**.
+Welcome to the Stone Ridge Agent Engineering course!
 
-In 2026, AI Engineers are responsible for building agents.
+**You can access everything you need to succeed in the course directly through this GitHub repo** Specifically, through [`00_Quicklinks`](00_AIE_Quicklinks/README.md).
 
-[Agent Engineering](https://blog.langchain.com/agent-engineering-a-new-discipline/), an emerging discipline, is defined as the iterative process of refining non-deterministic LLM systems into reliable production experiences.
+# 🛣️ Getting Started
+To prepare for kicking off our training on Tuesday, January 27th at 5 PM ET [here](https://us02web.zoom.us/j/81918551132), be sure that you have the following things completed:
+
+1. 🧑‍💻 Complete [The AI Engineer Challenge](https://aimakerspace.io/aie-challenge)
+2. 🌡️ Fill out your [starting self-assessment](https://forms.gle/PmVj3GCDf9UqWCoCA)!
+3. 🛹 Schedule your [Onboarding Call](https://calendly.com/aim-dr-greg/srhg-agent-engineering-training-with-ai-makerspace) with Dr. Greg!
+4. 🤓 Prepare to hit the ground running in Week 1 by reading the information available now [`00_Docs`](00_Docs)
 
 # 📅 Structure & Format
 
-Weekly content releases & tag-ups on Tuesdays from 5-6 PM ET
-
-2 assignments per week
-
-24-hour async Slack channel to be staffed to get responses *within the workday*
+- Weekly content releases & tag-ups on Tuesdays from 5-6 PM ET
+- 2 assignments per week
+- 24-hour async Slack channel to be staffed to get responses *within the workday*
 
 ## 📚 Learning Outcomes
 
-**Week 1: Building & Vibe Checking Simple RAG Apps**
+**Week 1: Building & Vibe Checking Class RAG Applications**
 
-- *✨ Building LLM Apps with Simple Evals*: Check the vibes on the LLM app you built during The AI Engineer Challenge and see how even naive context updates can have a big impact.
+- *✨ Intro & Vibe Check*: Check the vibes on the LLM app you built during The AI Engineer Challenge and see how even naive context updates can have a big impact.
 - *🗃️ Dense Vector Retrieval*: Understand RAG from first principles, both conceptually and in code.
 
-
-**Week 2: Building Simple Agents**
+**Week 2: Building and Monitoring Agentic RAG Applications**
 
 - *🔁 The Agent Loop*: Understand what an “agent” is and how to use the latest abstractions to build production-grade agents quickly.
 - *🕴️ Agentic RAG*: Look under the hood of agentic RAG and the `create_agent` abstraction.
 
 
-**Week 3: Building More Complex Agents**
+**Week 3: Building More Complex Agentic Applications**
 
 - *🔄 Multi-Agent Applications*: Learn when to add additional agents to optimize context and how to construct agent teams using common patterns.
 - *🧠 Agent Memory*: Learn how to build agents that manage both short- and long-term memory.
 
 
-**Week 4: Systematic Evals for Agentic RAG Apps**
+**Week 4: Systematic Evals for Agentic RAG Applications**
 
 - *🧪 Synthetic Data Generation for Evals*: Learn how to automatically generate test data for agentic RAG applications when no eval datasets exist.
 - *📊 Agentic RAG Evaluation*: Set up and implement effective evals for agents and RAG applications.
@@ -90,7 +96,6 @@ Specifically, we will leverage the following tooling in the curriculum and assig
 - [Dr. Greg Loughnane, Ph.D](https://www.linkedin.com/in/gregloughnane/), CEO & Co-Founder @ AI Makerspace
 - [Chris Alexiuk](https://www.linkedin.com/in/csalexiuk/), CTO & Co-Founder @ AI Makerspace
 - [Dr. Katerina Gawthorpe, Ph.D.](https://www.linkedin.com/in/katerina-gawthorpe/), Co-Founder @ [eve.ai](http://eve.ai), AI Makerspace-Certified Consultant
-- [Mani Sarkar](https://www.linkedin.com/in/mani-sarkar/), Freelance Consultant, 4X Kaggle Grandmaster
 - [Laura Funderburk](https://www.linkedin.com/in/laurafunderburk/), Community & Developer Relations Lead @ AI Makerspace
 - [Jacob Kilpatrick](https://www.linkedin.com/in/jacobkilpatrickai/), Course Operations Lead @ AI Makerspace
 
