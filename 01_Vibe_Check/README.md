@@ -45,20 +45,21 @@ You will be required to submit a link to your GitHub, as well as screenshots of 
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
-    - Aspect Tested:
+    - Aspect Tested: Confirming the app can take an abstract concept and boil it down to basic ideas
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    - Aspect Tested: confirming the app can parse a document and provide an *accurate* summary
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    - Aspect Tested: confirm it can create a coherent story while abiding by the word count rule
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    - Aspect Tested: basic logic question, arithmetic checks out, can turn text to basic formulas
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested: Update text stylistically without losing content 
 
 #### ❓Question #1:
 
 Do the answers appear to be correct and useful?
 ##### ✅ Answer:
+Largely the answeres were correct and useful, on number 5, i added some spanish into the text as one might do casually but it did not pick up on changing that as part of the "formalizing"
 
 ---
 
@@ -73,17 +74,101 @@ Now test your assistant with personal questions it should be able to help with. 
 - "What can I cook with [enter ingredients] in fridge."
 
 ##### Your Prompts and Results:
-1. Prompt:
+1. Prompt: help me plan a surprise wedding for my girlfriend
    - Result:
-2. Prompt:
+>That’s a big, exciting idea. I want to support you in creating something meaningful and respectful. A full “surprise wedding” where your girlfriend hasn’t agreed to marry that day can feel coercive and may backfire. Instead, I recommend one of these surprise-but-consensual options:
+>- Surprise proposal followed by a surprise celebration with loved ones.
+>- Surprise micro‑wedding only if you’ve both already said “yes” to marrying soon and she’s explicitly comfortable with a spontaneous ceremony.
+>- Surprise vow renewal if you’re already married.
+>
+>If you’d like, I can help you plan any of these. Here’s a safe, romantic plan you can adapt.
+>
+>Phase 1: Make sure you’re aligned
+>- Have a low‑pressure talk about the future: “I love where we’re headed—how are you feeling about marriage and timing?” Listen for clear enthusiasm. Discuss essentials (money, kids, faith/culture, where to live).
+>- If she’s excited to marry soon, you can ask, “Would you ever want a small, spontaneous ceremony one day?” If she’s unsure, do a proposal + party instead.
+>
+>Option A: Surprise proposal + celebration (most romantic, least pressure)
+>1) Vision and vibe
+>- Private or public? Intimate or big?
+>- Her favorites: places, music, flowers, colors, foods, people to include.
+>2) Logistics (4–8 weeks is plenty)
+>- Ring or meaningful token; discreetly confirm ring size.
+>- Location for the proposal (beautiful but quiet). Weather backup.
+>- Photographer to hide nearby; set a signal (e.g., you kneel = start shooting).
+>- After‑party venue: a cozy restaurant room, backyard with lights, rooftop, or living room picnic.
+>- Guest list: invite only people she’d be thrilled to see. Label the event as a birthday/housewarming to keep it secret.
+>- Food/drink she loves; simple decor; playlist; one or two short toasts.
+>- Keepsakes: printed photos of your relationship, a guestbook, flowers she can keep.
+>3) Day‑of flow
+>- Alibi to get her to the proposal spot (walk, brunch, “new exhibit”).
+>- You propose privately; take a beat to celebrate, then reveal the next surprise: “There’s one more surprise—only if you’re up for it.”
+>- Arrive at the celebration; keep it short and sweet so it’s not overwhelming.
+>- Aftercare: Quiet time together that night.
+>
+>Option B: Surprise micro‑wedding (only with prior consent to marry soon)
+>1) Confirm consent explicitly
+>- “If we had the license and an intimate setup one day, would a spontaneous ceremony feel fun or stressful?” Only proceed with a clear yes.
+>2) Legal and logistics
+>- Marriage license: both must appear to get it; check your county’s ID, wait period, and expiration (often 30–90 days). Arrange witnesses if required.
+>- Officiant: book someone flexible.
+>- Attire: have options she’d like (ask her style preferences ahead of time; keep tags on). Offer choices day‑of and an easy opt‑out.
+>- Hair/makeup: light, optional; bring touch‑up kit.
+>- Venue: quiet, meaningful spot; backup plan for weather.
+>- Photographer, small bouquet/boutonniere, simple music.
+>3) Day‑of consent checks
+>- “I planned something special we talked about. Only if you’re 100% into it; we can pivot to a date night.” Build an easy exit.
+>- Keep it intimate (2–10 guests max) unless she’s a true extrovert.
+>- Post‑ceremony meal together; announce to others later if she prefers.
+>
+>Ground rules to keep it loving and respectful
+>- Avoid big public spectacles unless you’re certain she loves attention.
+>- Prioritize her comfort over the plan; be ready to pivot if she’s overwhelmed.
+>- Loop in one trusted friend or sibling to be her advocate day‑of.
+>- Keep surprises additive, not binding—no pressure, no “clock is ticking” vibes.
+>
+>Quick checklist (proposal + celebration)
+>- Budget range and date window
+>- Location + backup
+>- Ring/token + insurance/receipt
+>- Photographer booked; signal agreed
+>- Venue for celebration; deposit paid
+>- Guest list invited under a cover event
+>- Food/drink ordered; simple decor
+>- Transportation/parking sorted
+>- Playlist and brief toasts planned
+>- Emergency kit (tissues, mints, lint roller)
+>- Private wind‑down plan after
+>
+>To tailor this, tell me:
+>- Do you prefer proposal + party, or a consensual micro‑wedding?
+>- Approximate date window and location
+>- Budget range
+>- Her style (classic, boho, minimal, glam), favorite colors/flowers
+>- Public vs private, and who must be there
+>- Any cultural/religious elements to honor
+>
+>I’ll turn that into a personalized timeline, vendor list, and day‑of script.
+2. Prompt: my back is very sore, what can i do to help with that - please keep answer brief
    - Result:
-3. Prompt:
+>Sorry you’re hurting. A few quick, safe steps:
+>
+>- Keep gently moving (short walks), avoid long bed rest.
+>- Heat or ice 15–20 min, 2–3x/day (use what feels better).
+>- Gentle stretches: cat–cow, child’s pose, knee-to-chest, hamstring stretch. Stop if sharp pain.
+>- Posture breaks every 30–60 min; add lumbar support when sitting.
+>- Sleep with a pillow between knees (side) or under knees (back).
+>- OTC pain relief (e.g., ibuprofen/naproxen or acetaminophen) if safe for you; follow labels.
+>- Breathe slowly (4–6 breaths/min) to relax tense muscles.
+>
+>Seek care urgently if you have leg weakness/numbness, bowel/bladder changes, fever, or pain after a fall; see a clinician/physio if not improving in 1–2 weeks. You’ve got this—small steps help.
+3. Prompt: Give me 1 vacation destination thats off the beaten path but I can do a long weekend from the northeast US. Please keep answer brief 
    - Result:
-
+>Monhegan Island, Maine — car‑free, rugged cliff hikes, lighthouse, and lobster shacks; take a 1‑hour ferry from Port Clyde (easy drive or fly to Portland), perfect for a quiet 2–3‑night reset.
 #### ❓Question #2:
 
 Are the vibes of this assistant's answers aligned with your vibes? Why or why not?
 ##### ✅ Answer:
+ - largely yes, I was curious to see how it would respond to the first question which was an intentionally unnatural ask, it did point that out but still answered the question with caveats
 
 ---
 
@@ -95,15 +180,66 @@ Now test your assistant with questions that would require capabilities beyond ba
 - "What time should I leave for the airport?"
 
 ##### Your Prompts and Results:
-1. Prompt:
+1. Prompt: how much would i need to buy a 150% strike 1y call option on apple stock?
+   - Result: 
+>Great question. Here’s how to think about it and how to find the exact cost.
+>
+>- What “150% strike, 1y call” means: You’re looking at a call with a strike equal to 1.5 times Apple’s current stock price, expiring about one year from now.
+>- What you actually pay: The market premium listed in the options chain. Each standard option contract controls 100 shares, so cost ≈ quoted premium per share × 100, plus any fees.
+>
+>Why the price varies:
+>- It depends on Apple’s current price, the exact expiration date, implied volatility at that strike, interest rates, and dividends. Because it’s far out-of-the-money, the price is very sensitive to implied volatility.
+>
+>How to get the exact number right now:
+>1) Open your broker/app and load AAPL’s options chain.
+>2) Pick the expiration about one year out.
+>3) Find the strike closest to 1.5 × the current stock price.
+>4) Use the mid-price between bid and ask as a realistic estimate.
+>5) Multiply by 100 for one contract (and add commissions/fees).
+>
+>Quick illustrative example (not a quote):
+>- If AAPL were $190 and 1-year implied volatility were about 25%, a 150% strike (around $285) might price around $1.75 per share, or about $175 per contract. If IV were 20%, it could be closer to ~$58 per contract; if IV were 30%, ~$344. Actual market pricing can differ.
+>
+>Handy checkpoints:
+>- Breakeven at expiration ≈ strike + premium per share you paid.
+>- Deep out-of-the-money 1-year calls can be inexpensive but have a high chance of expiring worthless.
+>
+>If you share Apple’s current price, the exact 1-year expiry you’re considering, and a rough implied volatility (or the bid-ask you see), I can help you estimate a fair cost on the spot.
+2. Prompt: should i bet seahawks moneyline in the superbowl on sunday?
    - Result:
-2. Prompt:
-   - Result:
+>I get the excitement. I can’t see real-time odds or even confirm the matchup, so I won’t give a pick—but here’s a simple way to decide with a clear head:
+>
+>- Clarify your goal: entertainment or expected value.
+>  - Entertainment: It’s okay to bet a small, fixed amount you’re 100% comfortable losing just to have fun. Think 0.5–2% of your bankroll.
+>  - Profit/edge: Only bet if you believe the Seahawks’ true win probability is higher than the odds imply.
+>
+>- Check the odds and implied probability:
+>  - For positive American odds (e.g., +150): implied probability ≈ 100 / (odds + 100). +150 ≈ 40%.
+>  - For negative odds (e.g., -150): implied probability ≈ odds / (odds + 100). -150 ≈ 60%.
+>  - If your honest estimate of Seattle’s chance to win is above that implied number, it’s a +EV bet; if not, pass.
+>
+>- Manage risk:
+>  - Size your bet before the game and don’t chase losses.
+>  - If you’re a Seahawks fan, consider a tiny “fun” stake so the result doesn’t wreck your mood.
+>  - Shop for the best line if you can; a few cents of price matters.
+>
+>- It’s always okay to pass. The best bet is often the one you don’t make when you don’t have an edge.
+>
+>If you want, share:
+>- The moneyline price you’re seeing
+>- Your goal (fun vs. trying to beat the number)
+>- How much you’re thinking of staking
+>
+>I can help you translate the odds to implied probability and sanity-check your plan.
 
 #### ❓Question #3:
 
 What are some limitations of your application?
 ##### ✅ Answer:
+ - it seems that it cannot go grab info from the internet about current events
+ - it still tries to make recommendations of how to think about the problem
+ - maybe it woudl be more useful if it just said, no i can't do that, rather than talking around how it can help depending on the context
+ - also given all the other caveats and warnings, i'm surprised it didn't try to talk me out of betting
 
 ---
 
