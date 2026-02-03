@@ -254,14 +254,18 @@ Please make adjustments to your application that you believe will improve the vi
 
 #### 🏗️ Activity #1
 ##### Adjustments Made:
-- _describe adjustment(s) here_
+- I set up a tool for my chat bot to be able to go out to the yahoo finance api
 
 ##### Results:
-1. _Comment here how the change(s) impacted the vibe check of your system_
-2.
-3.
-4.
-5.
+1. when i ask it a basic question like, what is apple's stock price, it responds helpfully
+2. when i ask it an unrelated question, it doesn't attempt to do anything with my tool
+exmple:
+> Q: whats the ratio of google's stock price to apple's stock price
+> 
+> A: Great question. Alphabet has two share classes—GOOGL (Class A) and GOOG (Class C). Using live prices right now:
+>    - GOOGL/AAPL = 340.27 / 269.79 ≈ 1.2612
+>    - GOOG/AAPL = 341.44 / 269.79 ≈ 1.2657
+>    Want me to stick with one (GOOGL or GOOG) for future ratios?
 
 </details>
 
