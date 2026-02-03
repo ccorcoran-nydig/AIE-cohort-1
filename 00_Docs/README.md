@@ -14,7 +14,7 @@ Although we will sequence material slightly differently than we have shown below
 - [✨ Vibe Checking](./Modules/01_Intro_and_Vibe_Check/README.md)
 - [🗃️ Dense Vector Retrieval](./Modules/02_Dense_Vector_Retrieval/README.md)
 - [🔁 The Agent Loop](./Modules/03_The_Agent_Loop/README.md)
-- [🕴️ Agentic RAG](./Modules/04_Agentic_RAG_From_Scratch/README.md)
+- [🕴️ Agentic RAG](./Modules/04_Agentic-RAG-from-Scratch/README.md)
 
 #### "Complex" Agentic RAG
 - 🔄 Multi-Agent Applications
