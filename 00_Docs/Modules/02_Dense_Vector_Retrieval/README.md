@@ -218,12 +218,12 @@ If we can improve retrieval, then we can get better generations.
 As we can see, the pattern we learned in Module 1 works directly with the pattern we’ll learn in Module 2 👇.  This is a meta-pattern we will continue to see at work!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c6edd69b-a7d1-48bc-8865-f80094ce5003" width="45%" />
-  <img src="https://github.com/user-attachments/assets/e04c2f8e-11d8-4803-ad1a-02b2fdca989e" width="45%" />
+  <img src="i-o_schema.jpg" width="45%" />
+  <img src="consider-rag.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08769d55-3d74-476b-8258-c1ab3b76efa6" width="80%" />
+  <img src="detailed-rag.jpg" width="80%" />
 </p>
 
 # 🏗️ The LLM Application Stack
