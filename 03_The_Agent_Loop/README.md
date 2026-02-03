@@ -5,12 +5,6 @@
 
 ## <h1 align="center" id="heading">Module 3: The Agent Loop</h1>
 
-### [Quicklinks](../00_AE_Quicklinks/README.md)
-
-| 📰 Module | ⏺️ Recording  | 🖼️ Slides     | 👨‍💻 Repo     | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-|[🔁 The Agent Loop](../00_Docs/Modules/03_The_Agent_Loop) | [2/3 Recording](https://f.io/QC-BExgb) <br> password: `SRintel` | [Week 2 Slides](https://www.canva.com/design/DAHATfSSoiE/VxdmkItAu8acETozDzFq8Q/edit?utm_content=DAHATfSSoiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [`03_The_Agent_Loop`](../03_The_Agent_Loop) | [Module 3 Assignment: Agentic Loop (due 2/10)](https://forms.gle/LxnBbjnGTcbe8Xug6) | [Week 2 Feedback](https://forms.gle/wPQKAwXHaqo2V5aW6) |
-
 > **Note:** This notebook uses Anthropic Claude for chat/reasoning. Please follow the best practices outlined in the [SRHG AI Usage Guidelines](https://srhg.enterprise.slack.com/docs/T0HANKTEC/F0AB86J3A1L).
 
 ### Outline:
