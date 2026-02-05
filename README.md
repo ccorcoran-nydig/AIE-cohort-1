@@ -25,7 +25,7 @@ To prepare for kicking off our training on Tuesday, January 27th at 5 PM ET [her
 ## 📚 Learning Outcomes
 
 <details>
-  <summary><strong>Week 1: Building & Vibe Checking Class RAG Applications</strong></summary>
+  <summary><strong>Week 1: Building & Vibe Checking Classic RAG Applications</strong></summary>
 
   <ul>
     <li><em>✨ Intro &amp; Vibe Check</em>: Check the vibes on the LLM app you built during The AI Engineer Challenge and see how even naive context updates can have a big impact.</li>
