@@ -5,6 +5,10 @@
 
 ## <h1 align="center" id="heading">Module 4: Agentic RAG From Scratch</h1>
 
+| 📰 Module | ⏺️ Recording  | 🖼️ Slides     | 👨‍💻 Repo     | 📝 Homework      | 📁 Feedback       |
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
+|[🕴️ Agentic RAG From Scratch](../00_Docs/Modules/04_Agentic-RAG-from-Scratch) |[2/3 Recording](https://f.io/QC-BExgb) <br> password: `SRintel` | [Week 2 Slides](https://www.canva.com/design/DAHATfSSoiE/VxdmkItAu8acETozDzFq8Q/edit?utm_content=DAHATfSSoiE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [`4_Agentic_RAG_From _Scratch`](../04_Agentic_RAG_From_Scratch) | [Module 4 Assignment: Agentic RAG (due 2/10)](https://forms.gle/UP6gyW8Ge2Y8ycUn7) | [Week 2 Feedback](https://forms.gle/wPQKAwXHaqo2V5aW6) |
+
 > **Note:** This notebook uses Anthropic Claude for chat/reasoning. Please follow the best practices outlined in the [SRHG AI Usage Guidelines](https://srhg.enterprise.slack.com/docs/T0HANKTEC/F0AB86J3A1L).
 
 ### Outline:
