@@ -22,4 +22,5 @@ dependencies = [
     "sentence-transformers>=5.2.2",
     "langchain-huggingface",
     "yfinance",
+    "pymupdf",
 ]

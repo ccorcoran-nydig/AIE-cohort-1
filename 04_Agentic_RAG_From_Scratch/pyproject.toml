@@ -17,4 +17,7 @@ dependencies = [
     "langchain-qdrant>=0.2.0",
     "python-dotenv>=1.0.1",
     "nest-asyncio>=1.6.0",
+    "sentence-transformers>=5.2.2",
+    "langchain-huggingface",
+    "langchain-anthropic",
 ]
